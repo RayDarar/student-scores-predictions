@@ -2,7 +2,7 @@
 
 My First Jupyter Notebook!
 
-It's hosted on github pages, so you could easily find it by [this]() link.
+It's hosted on github pages, so you could easily find it by [this](https://raydarar.github.io/student-scores-predictions/) link.
 
 ## Story 📓
 
